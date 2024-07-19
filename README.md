@@ -1,5 +1,3 @@
-# PRODIGY_SD_2
-Code for a Guessing Game
 import random
 
 def guessing_game():
